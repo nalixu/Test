@@ -1,0 +1,285 @@
+#body {
+	margin: auto;
+	height: 2500px;
+	width: 1024px;
+}
+#body #nav {
+	height: 60px;
+	width: 1020px;
+	margin: auto;
+	background-color: #333;
+}
+#nav #log {
+	height: 40px;
+	width: 300px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 100px;
+	font-family: "Times New Roman", Times, serif;
+	color: #FFF;
+}
+#log img {
+	float: left;
+}
+#log #lr {
+	float: left;
+	height: 20px;
+	width: 200px;
+	margin-top: 10px;
+	margin-left: 10px;
+	color: #FFF;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#nav #header {
+	height: 40px;
+	width: 560px;
+	float: right;
+	margin-top: 10px;
+	font-family: "Times New Roman", Times, serif;
+	color: #FFF;
+}
+#header ul {
+	list-style-type: none;
+	margin-top: 9px;
+}
+#header ul li {
+	float: left;
+	padding-right: 9px;
+	margin-left: 40px;
+}
+#one #text {
+	color: #FFF;
+	text-align: center;
+	height: 300px;
+	width: 1000px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	padding-top: 150px;
+}
+#two #top {
+	height: 120px;
+	width: 1000px;
+	font-family: "Times New Roman", Times, serif;
+}
+#two #down {
+	height: 310px;
+	width: 1000px;
+}
+.text1 {
+	height: 90px;
+	width: 800px;
+	padding-top: 20px;
+	margin: auto;
+	text-align: center;
+}
+#top #text2 {
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+	height: 70px;
+	width: 800px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	padding: 10px;
+}
+#down #left2 {
+	height: 280px;
+	width: 400px;
+	margin-left: 100px;
+	margin-top: 20px;
+	float: left;
+}
+#down #right2 {
+	height: 250px;
+	width: 300px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+#right2 ul {
+	list-style-type: disc;
+}
+#right2 ul li {
+	padding-bottom: 15px;
+}
+#three #top3 {
+	height: 100px;
+	width: 800px;
+	margin-top: 8px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	text-align: center;
+}
+#three #down3 {
+	height: 460px;
+	width: 1000px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+#down3 #im1 {
+	height: 200px;
+	width: 220px;
+	float: left;
+	margin-left: 30px;
+	margin-right: 10px;
+}
+#down3 #im5 {
+	float: left;
+	height: 200px;
+	width: 220px;
+	margin-left: 30px;
+	margin-top: 30px;
+	margin-right: 10px;
+}
+#down3 #im7 {
+	height: 200px;
+	width: 220px;
+	margin-top: 30px;
+	margin-right: 10px;
+	margin-left: 10px;
+	float: left;
+}
+#down3 #im8 {
+	float: left;
+	height: 200px;
+	width: 220px;
+	margin-top: 30px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.tex {
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+	padding-top: 10px;
+	margin-top: 20px;
+	color: #CCC;
+	font-size: 20px;
+	line-height: 50px;
+}
+#body #four {
+	margin: auto;
+	height: 600px;
+	width: 1000px;
+}
+#four #top4 {
+	height: 60px;
+	width: 800px;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	text-align: center;
+}
+#four #down4 {
+	height: 450px;
+	width: 1000px;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+#down4 #left4 {
+	height: 350px;
+	width: 400px;
+	margin-top: 40px;
+	margin-left: 70px;
+	float: left;
+}
+#down4 #right4 {
+	height: 400px;
+	width: 400px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 40px;
+}
+#right4 #name {
+	color: #999;
+	height: 30px;
+	width: 400px;
+	float: left;
+	margin-top: 0px;
+}
+#right4 #textfield {
+	height: 200px;
+	width: 400px;
+	color: #999;
+}
+#right4 #send {
+	width: 90px;
+	background-color: #FFF;
+}
+#body #four #foot {
+	height: 20px;
+	width: 800px;
+	margin: auto;
+	color: #999;
+	text-align: center;
+	background-color: #FFF;
+}
+#right4 input {
+	width: 400px;
+	height: 30px;
+	margin-top: 10px;
+	float: left;
+	color: #999;
+}
+
+#down3 #im6 {
+	float: left;
+	height: 200px;
+	width: 220px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 30px;
+}
+#down3 #im2 {
+	float: left;
+	height: 200px;
+	width: 220px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#down3 #im3 {
+	height: 200px;
+	width: 220px;
+	margin-left: 10px;
+	float: left;
+	margin-right: 10px;
+}
+#down3 #im4 {
+	height: 200px;
+	width: 220px;
+	margin-left: 10px;
+	float: left;
+}
+
+
+#body #one {
+	height: 450px;
+	width: 1020px;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	background-image: url(../images/banner.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: 60% 50%;
+}
+#body #two {
+	margin: auto;
+	height: 450px;
+	width: 1020px;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+}
+#body #three {
+	margin: auto;
+	height: 600px;
+	width: 1020px;
+}
